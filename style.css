@@ -13,7 +13,7 @@
     transform: translate(-50%, -50%);
     height: 95px;
     width: 370px;
-    background: #5e14c6;
+    background: #1493c6;
     border-radius: 55px;
     cursor: pointer;
     box-shadow: 0 5px rgba(0, 0, 0, 0.2);
@@ -33,7 +33,7 @@
     left: -100%;
     height: 100%;
     width: 100%;
-    background: #4c109f;
+    background: #0f6f94;
     border-radius: 55px;
     transition: all 6s ease-in-out;
 }
